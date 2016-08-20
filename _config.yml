@@ -1,0 +1,14 @@
+layout_spectrum: 0.8998141726478934
+typography_spectrum: 0.7558477430138737
+color:
+  brandStrength: 0.11696082400158048
+  lightness: 0.9718389597255737
+  saturation: 0.16810441319830716
+  rhythmicContrast: 0.9448562019970268
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: projects.
