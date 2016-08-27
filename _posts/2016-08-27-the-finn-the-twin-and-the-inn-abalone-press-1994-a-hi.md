@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-27T05:25:24.371Z'
+datePublished: '2016-08-27T05:29:14.727Z'
 sourcePath: _posts/2016-08-27-the-finn-the-twin-and-the-inn-abalone-press-1994-a-hi.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T05:25:23.242Z'
+dateModified: '2016-08-27T05:29:14.191Z'
 title: 'The Finn, The Twin, and The Inn:'
 publisher: {}
 description: ''
 starred: false
 url: the-finn-the-twin-and-the-inn-abalone-press-1994-a-hi/index.html
-_type: Blurb
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2adfe6d-d3d4-4124-b933-c8f29f211ca8.jpg)
