@@ -23,6 +23,9 @@ navigation:
   - name: Where There's Smoke
     id: 2f17b1e9-52f9-4f0a-a288-f12f6eb5a25d
     type: content
+  - name: 'The Finn, The Twin, And The Inn'
+    id: 561c35d9-da51-4faf-bdf7-56194a946408
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fdd230c-7cb6-492b-b233-55b4df37d031.ico
 title: ''
