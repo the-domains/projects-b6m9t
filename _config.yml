@@ -17,11 +17,11 @@ author:
   url: 'http://melmckinney.ink'
 name: Mel McKinney
 navigation:
-  - name: Where There's Smoke
-    id: 2f17b1e9-52f9-4f0a-a288-f12f6eb5a25d
-    type: content
   - name: Dead Duck
     id: 8a963b80-d750-4f57-b3ec-78f0d1d7875d
+    type: content
+  - name: Where There's Smoke
+    id: 2f17b1e9-52f9-4f0a-a288-f12f6eb5a25d
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fdd230c-7cb6-492b-b233-55b4df37d031.ico
