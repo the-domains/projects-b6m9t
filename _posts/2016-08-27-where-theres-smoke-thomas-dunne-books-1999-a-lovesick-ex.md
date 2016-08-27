@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-27T01:49:10.924Z'
+datePublished: '2016-08-27T02:23:42.080Z'
 sourcePath: _posts/2016-08-27-where-theres-smoke-thomas-dunne-books-1999-a-lovesick-ex.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T01:49:10.375Z'
+dateModified: '2016-08-27T02:23:41.030Z'
 title: ''
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ description: >-
   Cuban cigars secured for JFK just before he tightened the embargo in 1963.
 starred: false
 url: where-theres-smoke-thomas-dunne-books-1999-a-lovesick-ex/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/771fa199-179a-4c5c-a3d9-46f453c1b696.jpg)
