@@ -1,16 +1,16 @@
-typography_spectrum: 0.7558477430138737
+layout_spectrum: 0.3914063130505383
+typography_spectrum: 0.26583449728786945
 color:
-  brandStrength: 0.11696082400158048
-  lightness: 0.9718389597255737
-  saturation: 0.16810441319830716
-  rhythmicContrast: 0.9448562019970268
+  brandStrength: 0.9029422705061734
+  lightness: 0.06045721075497568
+  saturation: 0.2578820716589689
+  rhythmicContrast: 0.47647570609115064
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.8998141726478934
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
 author:
   name: Mel McKinney
   email: mel@mcn.org
