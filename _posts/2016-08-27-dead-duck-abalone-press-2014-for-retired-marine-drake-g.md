@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-27T01:35:48.906Z'
+datePublished: '2016-08-27T01:49:31.133Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T01:35:28.470Z'
+dateModified: '2016-08-27T01:49:30.653Z'
 title: ''
 publisher: {}
 description: >-
   Dead Duck:  Abalone Press, 2014.  For retired marine Drake Green, the war
   might be over, but a new battle has only just begun.
-starred: false
 sourcePath: _posts/2016-08-27-dead-duck-abalone-press-2014-for-retired-marine-drake-g.md
+starred: false
 url: dead-duck-abalone-press-2014-for-retired-marine-drake-g/index.html
 _type: Article
 
