@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-27T01:12:42.173Z'
+datePublished: '2016-08-27T01:13:59.526Z'
+sourcePath: _posts/2016-08-27-where-theres-smoke-thomas-dunne-books-1999-a-lovesick-ex.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T01:12:29.014Z'
+dateModified: '2016-08-27T01:13:58.956Z'
 title: ''
 publisher: {}
 description: >-
@@ -13,7 +14,6 @@ description: >-
   mid-life itch come together in this barbed tale centered around a cache of
   Cuban cigars secured for JFK just before he tightened the embargo in 1963.
 starred: false
-sourcePath: _posts/2016-08-27-where-theres-smoke-thomas-dunne-books-1999-a-lovesick-ex.md
 url: where-theres-smoke-thomas-dunne-books-1999-a-lovesick-ex/index.html
 _type: Article
 
