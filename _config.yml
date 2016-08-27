@@ -16,6 +16,10 @@ author:
   email: mel@mcn.org
   url: 'http://melmckinney.ink'
 name: Mel McKinney
+navigation:
+  - name: Where There's Smoke
+    id: 2f17b1e9-52f9-4f0a-a288-f12f6eb5a25d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fdd230c-7cb6-492b-b233-55b4df37d031.ico
 title: Author
