@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-27T01:33:31.070Z'
+datePublished: '2016-08-27T01:49:10.924Z'
 sourcePath: _posts/2016-08-27-where-theres-smoke-thomas-dunne-books-1999-a-lovesick-ex.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T01:33:30.524Z'
+dateModified: '2016-08-27T01:49:10.375Z'
 title: ''
 publisher: {}
 description: >-
