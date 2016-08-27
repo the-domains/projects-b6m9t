@@ -1,21 +1,33 @@
-typography_spectrum: 0.3035961496643722
+author:
+  name: Mel McKinney
+  email: mel@mcn.org
+  url: 'http://melmckinney.ink'
+title: ''
+name: Mel McKinney
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.9029422705061734
-  lightness: 0.06045721075497568
   saturation: 0.2578820716589689
-  rhythmicContrast: 0.47647570609115064
+  brandStrength: 0.9029422705061734
+  rhythmicContrast: 0.4764757060911506
   brandColors:
     - '#E8E595'
     - '#D0A825'
     - '#40627C'
     - '#26393D'
     - '#FFFAE4'
-layout_spectrum: 0.5498739252798259
-author:
-  name: Mel McKinney
-  email: mel@mcn.org
-  url: 'http://melmckinney.ink'
-name: Mel McKinney
+  lightness: 0.06045721075497568
+typography_spectrum: 0.3035961496643722
 navigation:
   - name: Dead Duck
     id: 8a963b80-d750-4f57-b3ec-78f0d1d7875d
@@ -26,6 +38,6 @@ navigation:
   - name: 'The Finn, The Twin, And The Inn'
     id: 561c35d9-da51-4faf-bdf7-56194a946408
     type: content
+layout_spectrum: 0.01135004
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fdd230c-7cb6-492b-b233-55b4df37d031.ico
-title: ''
