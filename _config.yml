@@ -10,12 +10,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.2578820716589689
   brandStrength: 0.9029422705061734
@@ -38,6 +38,6 @@ navigation:
   - name: 'The Finn, The Twin, And The Inn'
     id: 561c35d9-da51-4faf-bdf7-56194a946408
     type: content
-layout_spectrum: 0.3291517
+layout_spectrum: 0.750896
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fdd230c-7cb6-492b-b233-55b4df37d031.ico
