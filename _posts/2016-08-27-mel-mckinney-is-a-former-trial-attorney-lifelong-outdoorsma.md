@@ -1,22 +1,25 @@
 ---
-datePublished: '2016-08-27T05:27:35.320Z'
+id: 14d59300-4a5d-43b4-b3a6-4f27b8c76b3a
+dateModified: '2016-08-27T06:01:09.306Z'
+title: >-
+  Mel McKinney is a former trial attorney, lifelong outdoorsman, fly fisherman,
+  and duck hunter. McKinney lives in Little River, California, with his wife,
+  Susan. He is the author of several books, short stories, essays, and
+  screenplays.
+datePublished: '2016-08-27T06:01:09.804Z'
+author: []
+description: ''
+publisher: {}
+via: {}
+starred: true
 sourcePath: >-
   _posts/2016-08-27-mel-mckinney-is-a-former-trial-attorney-lifelong-outdoorsma.md
 inFeed: true
 hasPage: false
-author: []
-via: {}
-dateModified: '2016-08-27T05:27:34.523Z'
-title: >-
-  Mel McKinney is a former trial attorney, lifelong outdoorsman, fly fisherman,
-  and duck hunter. McKinney lives in Little River, California, with his wife,
-  Susan. He is the author of several short stories, essays, and screenplays.
-publisher: {}
-description: ''
-starred: true
-_type: Blurb
+inNav: false
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/460bbead-3d4b-4dca-be8e-724f7e982031.jpg)
 
-## Mel McKinney is a former trial attorney, lifelong outdoorsman, fly fisherman, and duck hunter. McKinney lives in Little River, California, with his wife, Susan. He is the author of several short stories, essays, and screenplays.
+## Mel McKinney is a former trial attorney, lifelong outdoorsman, fly fisherman, and duck hunter. McKinney lives in Little River, California, with his wife, Susan. He is the author of several books, short stories, essays, and screenplays.
