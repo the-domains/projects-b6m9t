@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-27T01:54:15.112Z'
+datePublished: '2016-08-27T02:01:30.172Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T01:54:02.372Z'
+dateModified: '2016-08-27T02:01:29.124Z'
 title: ''
 publisher: {}
 description: >-
   The Finn, The Twin, and The Inn:  Abalone Press, 1994.  A history of the
   Little River Inn and its families.
-starred: false
 sourcePath: _posts/2016-08-27-the-finn-the-twin-and-the-inn-abalone-press-1994-a-hi.md
+starred: false
 url: the-finn-the-twin-and-the-inn-abalone-press-1994-a-hi/index.html
 _type: Article
 
