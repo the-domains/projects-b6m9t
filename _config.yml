@@ -3,6 +3,7 @@ author:
   email: mel@mcn.org
   url: 'http://melmckinney.ink'
 title: ''
+name: Mel McKinney
 collections:
   - index:
       path: /
@@ -37,7 +38,6 @@ navigation:
   - name: 'The Finn, The Twin, And The Inn'
     id: 561c35d9-da51-4faf-bdf7-56194a946408
     type: content
-layout_spectrum: 1
+layout_spectrum: 0.3291517
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fdd230c-7cb6-492b-b233-55b4df37d031.ico
-name: Mel McKinney
