@@ -14,6 +14,8 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/4286ffac-f8a1-4d4a-90ff-b50cc12e9f09.jpg
 layout_spectrum: 0.6204601731151342
+analytics:
+  google: UA-83276605-1
 author:
   name: ''
   email: mel@mcn.org
