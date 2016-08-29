@@ -1,4 +1,5 @@
-typography_spectrum: 0.12850805069319904
+layout_spectrum: 0.6204601731151342
+typography_spectrum: 0.49987353873439133
 color:
   brandStrength: 0.9029422705061734
   lightness: 0.06045721075497568
@@ -13,7 +14,6 @@ color:
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/4286ffac-f8a1-4d4a-90ff-b50cc12e9f09.jpg
-layout_spectrum: 0.6204601731151342
 analytics:
   google: null
 author:
