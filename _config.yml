@@ -1,4 +1,3 @@
-layout_spectrum: 0.9097119187936187
 typography_spectrum: 0.24460043502040207
 color:
   brandStrength: 0.9523458043113351
@@ -14,6 +13,7 @@ color:
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/4286ffac-f8a1-4d4a-90ff-b50cc12e9f09.jpg
+layout_spectrum: 0.9097119187936187
 analytics:
   google: null
 author:
@@ -33,4 +33,4 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fdd230c-7cb6-492b-b233-55b4df37d031.ico
-title: ''
+title: mel@mcn.org
