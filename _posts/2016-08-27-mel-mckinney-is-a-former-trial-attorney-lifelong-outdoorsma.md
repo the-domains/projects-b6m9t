@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-27T19:54:32.104Z'
+datePublished: '2016-09-02T01:02:55.817Z'
 sourcePath: >-
   _posts/2016-08-27-mel-mckinney-is-a-former-trial-attorney-lifelong-outdoorsma.md
 author: []
 via: {}
-dateModified: '2016-08-27T19:54:31.686Z'
+dateModified: '2016-09-02T01:02:55.102Z'
 title: >-
   Mel McKinney is a former trial attorney, lifelong outdoorsman, and fly
   fisherman. McKinney lives in Little River, California, with his wife Susan. He
